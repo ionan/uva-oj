@@ -46,8 +46,6 @@ int main(int argc, char* argv){
 	calculateAddresses(arrays,R,N);
 
 	freeArrays(arrays,N);
-
-	return 0;
 }
 
 bool getArrayName(char * name){

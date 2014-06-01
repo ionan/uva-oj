@@ -1,0 +1,8 @@
+6
+x
+x
+x
+x
+Below line is a blank line.  This is checking for input itself.
+
+If your input part was wrong, it may read this line .... thanks.
