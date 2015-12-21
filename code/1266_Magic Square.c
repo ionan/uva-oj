@@ -23,16 +23,16 @@ void getNextCoord(int *col,int *row, int n){
 
 int getSizeInChars(int n){
 	int size = 1;
-	while (n / 10 > 0){
-		n = n % 10;
+	while (n >= 10){
+		n = n / 10;
 		size++;
 	}
 	return size;
 }
 
 void printMagicSquare(int n, int sum){
-	printf("n=%d, sum=%d\n",n,sum);
 	int i,j, k, maxSize = getSizeInChars(n*n);
+	printf("n=%d, sum=%d\n",n,sum);
 	for (i = 0; i < n; i++){
 		for (j = 0; j < n; j++){
 			int currSize = getSizeInChars(magicSquare[i][j]);
