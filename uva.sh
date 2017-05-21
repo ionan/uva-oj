@@ -20,7 +20,9 @@ if [ $matchesCount == 1 ]; then
 					printf "	Running test case $line..."
 					bin/$code.o < input/$line | cmp --silent output/$line
 					if [ $? == 0 ]; then printf "Passed!\n"
-					else printf "NOK!\n"
+					else 
+						bin/$code.o < input/$line > "${line}.wrong"
+						printf "NOK!\n"
 					fi
 		  		fi
 			done
@@ -40,7 +42,9 @@ if [ $matchesCount == 1 ]; then
 					printf "	Running test case $line..."
 					bin/$code.o < input/$line | cmp --silent output/$line
 					if [ $? == 0 ]; then printf "Passed!\n"
-					else printf "NOK!\n"
+					else 
+						bin/$code.o < input/$line | diff -u output/$line - > "${line}.diff"
+						printf "NOK!\n"
 					fi
 		  		fi
 			done
