@@ -1,0 +1,100 @@
+The nicest part of route 1 is between stops 18 and 24
+The nicest part of route 2 is between stops 1 and 71
+Route 3 has no nice parts
+Route 4 has no nice parts
+Route 5 has no nice parts
+The nicest part of route 6 is between stops 13 and 17
+The nicest part of route 7 is between stops 43 and 80
+The nicest part of route 8 is between stops 11 and 15
+The nicest part of route 9 is between stops 10 and 20
+Route 10 has no nice parts
+The nicest part of route 11 is between stops 7 and 39
+Route 12 has no nice parts
+Route 13 has no nice parts
+Route 14 has no nice parts
+The nicest part of route 15 is between stops 21 and 30
+The nicest part of route 16 is between stops 2 and 27
+Route 17 has no nice parts
+The nicest part of route 18 is between stops 9 and 62
+The nicest part of route 19 is between stops 2 and 12
+Route 20 has no nice parts
+The nicest part of route 21 is between stops 1 and 12
+Route 22 has no nice parts
+The nicest part of route 23 is between stops 1 and 23
+Route 24 has no nice parts
+Route 25 has no nice parts
+The nicest part of route 26 is between stops 2 and 3
+Route 27 has no nice parts
+Route 28 has no nice parts
+The nicest part of route 29 is between stops 33 and 70
+The nicest part of route 30 is between stops 9 and 17
+Route 31 has no nice parts
+Route 32 has no nice parts
+Route 33 has no nice parts
+The nicest part of route 34 is between stops 10 and 21
+Route 35 has no nice parts
+Route 36 has no nice parts
+Route 37 has no nice parts
+The nicest part of route 38 is between stops 1 and 21
+Route 39 has no nice parts
+The nicest part of route 40 is between stops 12 and 35
+Route 41 has no nice parts
+The nicest part of route 42 is between stops 1 and 4
+The nicest part of route 43 is between stops 1 and 2
+The nicest part of route 44 is between stops 21 and 34
+The nicest part of route 45 is between stops 6 and 35
+The nicest part of route 46 is between stops 26 and 40
+The nicest part of route 47 is between stops 4 and 35
+The nicest part of route 48 is between stops 22 and 41
+Route 49 has no nice parts
+Route 50 has no nice parts
+Route 51 has no nice parts
+Route 52 has no nice parts
+Route 53 has no nice parts
+Route 54 has no nice parts
+The nicest part of route 55 is between stops 4 and 11
+Route 56 has no nice parts
+The nicest part of route 57 is between stops 27 and 55
+The nicest part of route 58 is between stops 31 and 36
+Route 59 has no nice parts
+Route 60 has no nice parts
+The nicest part of route 61 is between stops 9 and 14
+Route 62 has no nice parts
+The nicest part of route 63 is between stops 1 and 7
+The nicest part of route 64 is between stops 25 and 36
+Route 65 has no nice parts
+Route 66 has no nice parts
+The nicest part of route 67 is between stops 5 and 41
+Route 68 has no nice parts
+Route 69 has no nice parts
+Route 70 has no nice parts
+Route 71 has no nice parts
+The nicest part of route 72 is between stops 33 and 53
+The nicest part of route 73 is between stops 20 and 22
+The nicest part of route 74 is between stops 1 and 22
+The nicest part of route 75 is between stops 5 and 20
+Route 76 has no nice parts
+Route 77 has no nice parts
+The nicest part of route 78 is between stops 5 and 9
+The nicest part of route 79 is between stops 5 and 86
+Route 80 has no nice parts
+Route 81 has no nice parts
+Route 82 has no nice parts
+Route 83 has no nice parts
+Route 84 has no nice parts
+Route 85 has no nice parts
+Route 86 has no nice parts
+Route 87 has no nice parts
+Route 88 has no nice parts
+The nicest part of route 89 is between stops 3 and 49
+Route 90 has no nice parts
+Route 91 has no nice parts
+The nicest part of route 92 is between stops 4 and 12
+The nicest part of route 93 is between stops 12 and 83
+Route 94 has no nice parts
+Route 95 has no nice parts
+The nicest part of route 96 is between stops 7 and 85
+The nicest part of route 97 is between stops 3 and 22
+Route 98 has no nice parts
+Route 99 has no nice parts
+The nicest part of route 100 is between stops 5 and 28
