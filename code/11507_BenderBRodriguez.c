@@ -12,7 +12,6 @@ const short NO_BEND = -1;
 
 
 long L;
-char commandRow[100000][3];
 
 short getCoordinateValue(char *arr){
 	if (!strcmp(arr, "+x")) return X_PLUS;
