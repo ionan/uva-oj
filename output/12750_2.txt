@@ -1,0 +1,30 @@
+Case 1: 8
+Case 2: Yay! Mighty Rafa persists!
+Case 3: Yay! Mighty Rafa persists!
+Case 4: Yay! Mighty Rafa persists!
+Case 5: Yay! Mighty Rafa persists!
+Case 6: Yay! Mighty Rafa persists!
+Case 7: Yay! Mighty Rafa persists!
+Case 8: 3
+Case 9: 3
+Case 10: 5
+Case 11: 10
+Case 12: Yay! Mighty Rafa persists!
+Case 13: 7
+Case 14: Yay! Mighty Rafa persists!
+Case 15: 3
+Case 16: 8
+Case 17: 3
+Case 18: 6
+Case 19: 4
+Case 20: 3
+Case 21: 4
+Case 22: 6
+Case 23: 7
+Case 24: 3
+Case 25: 3
+Case 26: 9
+Case 27: 7
+Case 28: 3
+Case 29: 3
+Case 30: Yay! Mighty Rafa persists!

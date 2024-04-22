@@ -1,0 +1,9 @@
+Case 1: 1
+Case 2: impossible
+Case 3: impossible
+Case 4: 26
+Case 5: impossible
+Case 6: 0
+Case 7: 0
+Case 8: 4
+Case 9: impossible

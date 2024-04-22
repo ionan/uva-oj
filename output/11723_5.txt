@@ -1,0 +1,8 @@
+Case 1: 26
+Case 2: 26
+Case 3: 24
+Case 4: 25
+Case 5: 26
+Case 6: 0
+Case 7: 0
+Case 8: 0
