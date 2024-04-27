@@ -1,0 +1,6 @@
+[DEBUG] Read connector FM
+[DEBUG] Read connector FM
+[DEBUG] Read connector FM
+[DEBUG] Read connector FF
+[DEBUG] MF/FM connectors are 3, FF connectors are 0, and MM connectors are 1
+NO LOOP
