@@ -1,0 +1,5 @@
+3
+sohel moon nahid
+sohel 2 0
+moon 1 1 nahid
+nahid 1 0

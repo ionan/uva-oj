@@ -1,6 +1,157 @@
-[DEBUG] Read connector FM
-[DEBUG] Read connector FM
-[DEBUG] Read connector FM
-[DEBUG] Read connector FF
-[DEBUG] MF/FM connectors are 3, FF connectors are 0, and MM connectors are 1
-NO LOOP
+[DEBUG] Current name is dave
+[DEBUG] Current name is laura
+[DEBUG] Current name is owen
+[DEBUG] Current name is vick
+[DEBUG] Current name is amr
+[DEBUG] dave will give a total of 200 gifts to 3 people (66 for each, keeps 2 for himself)
+[DEBUG] Finding dave...
+[DEBUG] 	Does dave equal dave at index 0?
+[DEBUG] 		Yes!
+[DEBUG] Finding laura...
+[DEBUG] 	Does dave equal laura at index 0?
+[DEBUG] 		No!
+[DEBUG] 	Does laura equal laura at index 1?
+[DEBUG] 		Yes!
+[DEBUG] Finding owen...
+[DEBUG] 	Does dave equal owen at index 0?
+[DEBUG] 		No!
+[DEBUG] 	Does laura equal owen at index 1?
+[DEBUG] 		No!
+[DEBUG] 	Does owen equal owen at index 2?
+[DEBUG] 		Yes!
+[DEBUG] Finding vick...
+[DEBUG] 	Does dave equal vick at index 0?
+[DEBUG] 		No!
+[DEBUG] 	Does laura equal vick at index 1?
+[DEBUG] 		No!
+[DEBUG] 	Does owen equal vick at index 2?
+[DEBUG] 		No!
+[DEBUG] 	Does vick equal vick at index 3?
+[DEBUG] 		Yes!
+[DEBUG] owen will give a total of 500 gifts to 1 people (500 for each, keeps 0 for himself)
+[DEBUG] Finding owen...
+[DEBUG] 	Does dave equal owen at index 0?
+[DEBUG] 		No!
+[DEBUG] 	Does laura equal owen at index 1?
+[DEBUG] 		No!
+[DEBUG] 	Does owen equal owen at index 2?
+[DEBUG] 		Yes!
+[DEBUG] Finding dave...
+[DEBUG] 	Does dave equal dave at index 0?
+[DEBUG] 		Yes!
+[DEBUG] amr will give a total of 150 gifts to 2 people (75 for each, keeps 0 for himself)
+[DEBUG] Finding amr...
+[DEBUG] 	Does dave equal amr at index 0?
+[DEBUG] 		No!
+[DEBUG] 	Does laura equal amr at index 1?
+[DEBUG] 		No!
+[DEBUG] 	Does owen equal amr at index 2?
+[DEBUG] 		No!
+[DEBUG] 	Does vick equal amr at index 3?
+[DEBUG] 		No!
+[DEBUG] 	Does amr equal amr at index 4?
+[DEBUG] 		Yes!
+[DEBUG] Finding vick...
+[DEBUG] 	Does dave equal vick at index 0?
+[DEBUG] 		No!
+[DEBUG] 	Does laura equal vick at index 1?
+[DEBUG] 		No!
+[DEBUG] 	Does owen equal vick at index 2?
+[DEBUG] 		No!
+[DEBUG] 	Does vick equal vick at index 3?
+[DEBUG] 		Yes!
+[DEBUG] Finding owen...
+[DEBUG] 	Does dave equal owen at index 0?
+[DEBUG] 		No!
+[DEBUG] 	Does laura equal owen at index 1?
+[DEBUG] 		No!
+[DEBUG] 	Does owen equal owen at index 2?
+[DEBUG] 		Yes!
+[DEBUG] laura will give a total of 0 gifts to 2 people (0 for each, keeps 0 for himself)
+[DEBUG] Finding laura...
+[DEBUG] 	Does dave equal laura at index 0?
+[DEBUG] 		No!
+[DEBUG] 	Does laura equal laura at index 1?
+[DEBUG] 		Yes!
+[DEBUG] Finding amr...
+[DEBUG] 	Does dave equal amr at index 0?
+[DEBUG] 		No!
+[DEBUG] 	Does laura equal amr at index 1?
+[DEBUG] 		No!
+[DEBUG] 	Does owen equal amr at index 2?
+[DEBUG] 		No!
+[DEBUG] 	Does vick equal amr at index 3?
+[DEBUG] 		No!
+[DEBUG] 	Does amr equal amr at index 4?
+[DEBUG] 		Yes!
+[DEBUG] Finding vick...
+[DEBUG] 	Does dave equal vick at index 0?
+[DEBUG] 		No!
+[DEBUG] 	Does laura equal vick at index 1?
+[DEBUG] 		No!
+[DEBUG] 	Does owen equal vick at index 2?
+[DEBUG] 		No!
+[DEBUG] 	Does vick equal vick at index 3?
+[DEBUG] 		Yes!
+[DEBUG] vick will give a total of 0 gifts to 0 people (0 for each, keeps 0 for himself)
+[DEBUG] Finding vick...
+[DEBUG] 	Does dave equal vick at index 0?
+[DEBUG] 		No!
+[DEBUG] 	Does laura equal vick at index 1?
+[DEBUG] 		No!
+[DEBUG] 	Does owen equal vick at index 2?
+[DEBUG] 		No!
+[DEBUG] 	Does vick equal vick at index 3?
+[DEBUG] 		Yes!
+dave 502
+laura 66
+owen 141
+vick 141
+amr 0
+[DEBUG] Current name is liz
+[DEBUG] Current name is steve
+[DEBUG] Current name is dave
+[DEBUG] liz will give a total of 30 gifts to 1 people (30 for each, keeps 0 for himself)
+[DEBUG] Finding liz...
+[DEBUG] 	Does liz equal liz at index 0?
+[DEBUG] 		Yes!
+[DEBUG] Finding steve...
+[DEBUG] 	Does liz equal steve at index 0?
+[DEBUG] 		No!
+[DEBUG] 	Does steve equal steve at index 1?
+[DEBUG] 		Yes!
+[DEBUG] steve will give a total of 55 gifts to 2 people (27 for each, keeps 1 for himself)
+[DEBUG] Finding steve...
+[DEBUG] 	Does liz equal steve at index 0?
+[DEBUG] 		No!
+[DEBUG] 	Does steve equal steve at index 1?
+[DEBUG] 		Yes!
+[DEBUG] Finding liz...
+[DEBUG] 	Does liz equal liz at index 0?
+[DEBUG] 		Yes!
+[DEBUG] Finding dave...
+[DEBUG] 	Does liz equal dave at index 0?
+[DEBUG] 		No!
+[DEBUG] 	Does steve equal dave at index 1?
+[DEBUG] 		No!
+[DEBUG] 	Does dave equal dave at index 2?
+[DEBUG] 		Yes!
+[DEBUG] dave will give a total of 0 gifts to 2 people (0 for each, keeps 0 for himself)
+[DEBUG] Finding dave...
+[DEBUG] 	Does liz equal dave at index 0?
+[DEBUG] 		No!
+[DEBUG] 	Does steve equal dave at index 1?
+[DEBUG] 		No!
+[DEBUG] 	Does dave equal dave at index 2?
+[DEBUG] 		Yes!
+[DEBUG] Finding steve...
+[DEBUG] 	Does liz equal steve at index 0?
+[DEBUG] 		No!
+[DEBUG] 	Does steve equal steve at index 1?
+[DEBUG] 		Yes!
+[DEBUG] Finding liz...
+[DEBUG] 	Does liz equal liz at index 0?
+[DEBUG] 		Yes!
+liz 27
+steve 31
+dave 27
