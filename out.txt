@@ -1,0 +1,177 @@
+--- output/162.txt	2024-04-28 11:52:13.721263300 +0200
++++ -	2024-04-28 19:42:01.612061407 +0200
+@@ -1 +1,173 @@
+-1 44
++[DEBUG] HA adds 4 penalty cards to non-dealer getting a total of 1 cards on their deck
++[DEBUG] H3 adds 0 penalty cards to dealer getting a total of 1 cards on their deck
++[DEBUG] H4 adds 0 penalty cards to non-dealer getting a total of 2 cards on their deck
++[DEBUG] CA adds 4 penalty cards to dealer getting a total of 2 cards on their deck
++[DEBUG] SK adds 3 penalty cards to non-dealer getting a total of 3 cards on their deck
++[DEBUG] S5 adds 0 penalty cards to dealer getting a total of 3 cards on their deck
++[DEBUG] C5 adds 0 penalty cards to non-dealer getting a total of 4 cards on their deck
++[DEBUG] S6 adds 0 penalty cards to dealer getting a total of 4 cards on their deck
++[DEBUG] C4 adds 0 penalty cards to non-dealer getting a total of 5 cards on their deck
++[DEBUG] D5 adds 0 penalty cards to dealer getting a total of 5 cards on their deck
++[DEBUG] H7 adds 0 penalty cards to non-dealer getting a total of 6 cards on their deck
++[DEBUG] HJ adds 1 penalty cards to dealer getting a total of 6 cards on their deck
++[DEBUG] HQ adds 2 penalty cards to non-dealer getting a total of 7 cards on their deck
++[DEBUG] D4 adds 0 penalty cards to dealer getting a total of 7 cards on their deck
++[DEBUG] D7 adds 0 penalty cards to non-dealer getting a total of 8 cards on their deck
++[DEBUG] SJ adds 1 penalty cards to dealer getting a total of 8 cards on their deck
++[DEBUG] DT adds 0 penalty cards to non-dealer getting a total of 9 cards on their deck
++[DEBUG] H6 adds 0 penalty cards to dealer getting a total of 9 cards on their deck
++[DEBUG] S9 adds 0 penalty cards to non-dealer getting a total of 10 cards on their deck
++[DEBUG] CT adds 0 penalty cards to dealer getting a total of 10 cards on their deck
++[DEBUG] HK adds 3 penalty cards to non-dealer getting a total of 11 cards on their deck
++[DEBUG] C8 adds 0 penalty cards to dealer getting a total of 11 cards on their deck
++[DEBUG] C9 adds 0 penalty cards to non-dealer getting a total of 12 cards on their deck
++[DEBUG] D6 adds 0 penalty cards to dealer getting a total of 12 cards on their deck
++[DEBUG] CJ adds 1 penalty cards to non-dealer getting a total of 13 cards on their deck
++[DEBUG] C6 adds 0 penalty cards to dealer getting a total of 13 cards on their deck
++[DEBUG] S8 adds 0 penalty cards to non-dealer getting a total of 14 cards on their deck
++[DEBUG] D8 adds 0 penalty cards to dealer getting a total of 14 cards on their deck
++[DEBUG] C2 adds 0 penalty cards to non-dealer getting a total of 15 cards on their deck
++[DEBUG] S2 adds 0 penalty cards to dealer getting a total of 15 cards on their deck
++[DEBUG] S3 adds 0 penalty cards to non-dealer getting a total of 16 cards on their deck
++[DEBUG] C7 adds 0 penalty cards to dealer getting a total of 16 cards on their deck
++[DEBUG] H5 adds 0 penalty cards to non-dealer getting a total of 17 cards on their deck
++[DEBUG] DJ adds 1 penalty cards to dealer getting a total of 17 cards on their deck
++[DEBUG] S4 adds 0 penalty cards to non-dealer getting a total of 18 cards on their deck
++[DEBUG] DQ adds 2 penalty cards to dealer getting a total of 18 cards on their deck
++[DEBUG] DK adds 3 penalty cards to non-dealer getting a total of 19 cards on their deck
++[DEBUG] D9 adds 0 penalty cards to dealer getting a total of 19 cards on their deck
++[DEBUG] D3 adds 0 penalty cards to non-dealer getting a total of 20 cards on their deck
++[DEBUG] H9 adds 0 penalty cards to dealer getting a total of 20 cards on their deck
++[DEBUG] DA adds 4 penalty cards to non-dealer getting a total of 21 cards on their deck
++[DEBUG] SA adds 4 penalty cards to dealer getting a total of 21 cards on their deck
++[DEBUG] CK adds 3 penalty cards to non-dealer getting a total of 22 cards on their deck
++[DEBUG] CQ adds 2 penalty cards to dealer getting a total of 22 cards on their deck
++[DEBUG] C3 adds 0 penalty cards to non-dealer getting a total of 23 cards on their deck
++[DEBUG] HT adds 0 penalty cards to dealer getting a total of 23 cards on their deck
++[DEBUG] SQ adds 2 penalty cards to non-dealer getting a total of 24 cards on their deck
++[DEBUG] H8 adds 0 penalty cards to dealer getting a total of 24 cards on their deck
++[DEBUG] S7 adds 0 penalty cards to non-dealer getting a total of 25 cards on their deck
++[DEBUG] ST adds 0 penalty cards to dealer getting a total of 25 cards on their deck
++[DEBUG] H2 adds 0 penalty cards to non-dealer getting a total of 26 cards on their deck
++[DEBUG] D2 adds 0 penalty cards to dealer getting a total of 26 cards on their deck
++[DEBUG] Round 1 gives turn for the non-dealer
++[DEBUG] 	Deck has 0 cards, and user has 26 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 2 gives turn for the dealer
++[DEBUG] 	Deck has 1 cards, and user has 26 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 3 gives turn for the non-dealer
++[DEBUG] 	Deck has 2 cards, and user has 25 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 4 gives turn for the dealer
++[DEBUG] 	Deck has 3 cards, and user has 25 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 5 gives turn for the non-dealer
++[DEBUG] 	Deck has 4 cards, and user has 24 cards
++[DEBUG] 	User adds card that gives a 2 card penalty to next user
++[DEBUG] Round 6 gives turn for the non-dealer
++[DEBUG] 	Deck has 0 cards, and user has 30 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 7 gives turn for the dealer
++[DEBUG] 	Deck has 1 cards, and user has 22 cards
++[DEBUG] 	User adds card that gives a 2 card penalty to next user
++[DEBUG] Round 8 gives turn for the dealer
++[DEBUG] 	Deck has 0 cards, and user has 28 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 9 gives turn for the non-dealer
++[DEBUG] 	Deck has 1 cards, and user has 24 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 10 gives turn for the dealer
++[DEBUG] 	Deck has 2 cards, and user has 27 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 11 gives turn for the non-dealer
++[DEBUG] 	Deck has 3 cards, and user has 23 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 12 gives turn for the dealer
++[DEBUG] 	Deck has 4 cards, and user has 26 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 13 gives turn for the non-dealer
++[DEBUG] 	Deck has 5 cards, and user has 22 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 14 gives turn for the dealer
++[DEBUG] 	Deck has 6 cards, and user has 25 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 15 gives turn for the non-dealer
++[DEBUG] 	Deck has 7 cards, and user has 21 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 16 gives turn for the dealer
++[DEBUG] 	Deck has 8 cards, and user has 24 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 17 gives turn for the non-dealer
++[DEBUG] 	Deck has 9 cards, and user has 20 cards
++[DEBUG] 	User adds card that gives a 1 card penalty to next user
++[DEBUG] Round 18 gives turn for the non-dealer
++[DEBUG] 	Deck has 0 cards, and user has 30 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 19 gives turn for the dealer
++[DEBUG] 	Deck has 1 cards, and user has 22 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 20 gives turn for the non-dealer
++[DEBUG] 	Deck has 2 cards, and user has 29 cards
++[DEBUG] 	User adds card that gives a 3 card penalty to next user
++[DEBUG] Round 21 gives turn for the dealer
++[DEBUG] 	Deck has 0 cards, and user has 25 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 22 gives turn for the non-dealer
++[DEBUG] 	Deck has 1 cards, and user has 27 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 23 gives turn for the dealer
++[DEBUG] 	Deck has 2 cards, and user has 24 cards
++[DEBUG] 	User adds card that gives a 1 card penalty to next user
++[DEBUG] Round 24 gives turn for the dealer
++[DEBUG] 	Deck has 0 cards, and user has 27 ca1 44
++rds
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 25 gives turn for the non-dealer
++[DEBUG] 	Deck has 1 cards, and user has 25 cards
++[DEBUG] 	User adds card that gives a 2 card penalty to next user
++[DEBUG] Round 26 gives turn for the non-dealer
++[DEBUG] 	Deck has 0 cards, and user has 28 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 27 gives turn for the dealer
++[DEBUG] 	Deck has 1 cards, and user has 24 cards
++[DEBUG] 	User adds card that gives a 4 card penalty to next user
++[DEBUG] Round 28 gives turn for the dealer
++[DEBUG] 	Deck has 0 cards, and user has 33 cards
++[DEBUG] 	User adds card that gives a 4 card penalty to next user
++[DEBUG] Round 29 gives turn for the dealer
++[DEBUG] 	Deck has 0 cards, and user has 39 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 30 gives turn for the non-dealer
++[DEBUG] 	Deck has 1 cards, and user has 13 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 31 gives turn for the dealer
++[DEBUG] 	Deck has 2 cards, and user has 38 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 32 gives turn for the non-dealer
++[DEBUG] 	Deck has 3 cards, and user has 12 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 33 gives turn for the dealer
++[DEBUG] 	Deck has 4 cards, and user has 37 cards
++[DEBUG] 	User adds card that gives a 2 card penalty to next user
++[DEBUG] Round 34 gives turn for the dealer
++[DEBUG] 	Deck has 0 cards, and user has 43 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 35 gives turn for the non-dealer
++[DEBUG] 	Deck has 1 cards, and user has 9 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 36 gives turn for the dealer
++[DEBUG] 	Deck has 2 cards, and user has 42 cards
++[DEBUG] 	User adds card that gives a 3 card penalty to next user
++[DEBUG] Round 37 gives turn for the dealer
++[DEBUG] 	Deck has 0 cards, and user has 48 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 38 gives turn for the non-dealer
++[DEBUG] 	Deck has 1 cards, and user has 4 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 39 gives turn for the dealer
++[DEBUG] 	Deck has 2 cards, and user has 47 cards
++[DEBUG] 	User adds card that gives a 0 card penalty to next user
++[DEBUG] Round 40 gives turn for the non-dealer
++[DEBUG] 	Deck has 3 cards, and user has 3 cards
++[DEBUG] 	User adds card that gives a 2 card penalty to next user

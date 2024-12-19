@@ -30,38 +30,52 @@
 using namespace std;
 
 int main() {
-	int C, trash, currentLength, i, caseNumber, minMoves;
+	int C, trash, currentLength, i, caseNumber, minMoves, oneAndZeroes, zeroAndOnes, questionMarks;
+	int zeroesOnS, onesOnS, questionMarksOnS, zeroesOnT, onesOnT;
 	char S[101], T[101];
 	trash = scanf("%d", &C);
 	for (caseNumber = 1; caseNumber <= C; caseNumber++){
 		trash = scanf("%s", S);
 		trash = scanf("%s", T);
-printf("Strings are %s and %s\n", S, T);
 		currentLength = strlen(S);
 		minMoves = 0;
+		oneAndZeroes = 0;
+		zeroAndOnes = 0;
+		questionMarks = 0;
+		zeroesOnS = 0;
+		onesOnS = 0;
+		questionMarksOnS = 0;
+		zeroesOnT = 0;
+		onesOnT = 0;
 		for (int i = 0; i < currentLength; i++){
-			if (S[i] != T[i]){
-printf("Character %d is not the same: %c / %c\n", i, S[i], T[i]);
-				if (i < currentLength - 1 && S[i] == T[i + 1] && S[i + 1] == T[i]){
-printf("	Swap with next character (%c%c / %c%c)!\n", S[i], S[i + 1], T[i], T[i + 1]);					
-					minMoves++;
-					i++;
-				} else if (i < currentLength - 1 && S[i] == T[i + 1] && S[i + 1] == '?'){
-printf("	Swap with next character and change to %c!\n", T[i]);					
-					minMoves++;
-					i++;
-				} else if ((S[i] == '0' || S[i] == '?') && T[i] == '1'){
-printf("	Change to 1!\n");					
-					minMoves++;
-				} else if (S[i] == '?'){
-printf("	Change to %c!\n", T[i]);					
-					minMoves++;
-				} else {
-printf("	impossible to convert!\n");	
-					minMoves = -1;
-					break;
-				}
+			if (S[i] == '0'){
+				zeroesOnS++;
+			} else if (S[i] == '1'){
+				onesOnS++;
+			} else {
+				questionMarksOnS++;
 			}
+			if (T[i] == '0'){
+				zeroesOnT++;
+			} else if (T[i] == '1'){
+				onesOnT++;
+			}
+
+			if (S[i] == '0' && T[i] == '1'){
+				zeroAndOnes++;
+			} else if (S[i] == '1' && T[i] == '0'){
+				oneAndZeroes++;
+			} else if (S[i] == '?'){
+				questionMarks++;
+			}
+		}
+		if (zeroesOnT > zeroesOnS + questionMarksOnS){
+			minMoves = -1;
+		} else {
+			minMoves = min(zeroAndOnes, oneAndZeroes) + // swaps between 1 and 0
+					   max(zeroAndOnes - oneAndZeroes, 0) + // convert 0's to 1's
+				   	   min(questionMarks, max(oneAndZeroes - zeroAndOnes, 0)) +  // swaps between 1 and ?
+				   	   questionMarks; // ? conversion
 		}
 		printf("Case %d: %d\n", caseNumber, minMoves);
 	}
